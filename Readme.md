@@ -89,7 +89,7 @@ You can get the sources from git and then let composer install dependencies, or 
 ### Using git for download and composer for dependencies
 
 ``` bash
-$ git clone --recursive https://github.com/thelia/thelia path
+$ git clone --recursive https://github.com/aubreyosenda/thelia.git path 
 $ cd path
 $ git checkout 2.5.4
 $ curl -sS https://getcomposer.org/installer | php
